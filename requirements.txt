@@ -1,5 +1,7 @@
 streamlit
+langchain
 langchain_huggingface
-langchain_chroma
+langchain_chroma>=0.1.2
 langchain_core
 langchain_community
+langchain-chroma>=0.1.2
